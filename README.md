@@ -1,1 +1,1 @@
-Initial file
+The project is being developed on branch 'develop'.
